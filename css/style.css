@@ -1,0 +1,62 @@
+.mejn {
+    font-size: 25px;
+}
+
+.beground{
+    background-color: rgb(238, 238, 238);
+}
+.footer{
+    font-size: 12px;
+    color: azure;
+}
+.ppclass{
+    font-weight: 680;
+}
+
+.collap {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+  }
+  
+  .text {
+      max-width: 500px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+
+  .smol{
+      max-width: 150px;
+      max-height: 150px;
+      
+  }
+  .btn-group button {
+    background-color: #4CAF50; 
+    border: 1px solid rgb(5, 255, 5); 
+    color: white;
+    padding: 10px 24px; 
+    cursor: pointer; 
+  
+  }
+  
+  .pozice{
+    text-align: center;
+    position: relative;
+    top: auto;
+  }
+
+  
+
+  .btn-group:after {
+    content: "";
+    clear: both;
+    display: block;
+  }
+
+  #nevim a {
+    color: #4CAF50;
+    font-size: 120%;
+    font-weight: 600;
+}
+
